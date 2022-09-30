@@ -1,8 +1,8 @@
 
-# Next.JS & TailwindCSS Starter
-Next.js + Tailwind CSS + TypeScript for our new web project.
+# Next.JS + Docker + DigitalOcean Example
+
+Example deploy Nextjs into DigitalOcean with Docker.
 
 
 ## Features
 
-TODO: add more Readme
